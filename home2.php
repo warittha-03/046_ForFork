@@ -1,15 +1,15 @@
 <body bgcolor="#CC9900">
 	<table width="1238" height="530" border="0">
-		<tr>
-			<td width="23" rowspan="2">&nbsp;</td>
+		<tr>515559594998
+			<td width="23" rowspan="2">&nbsp;</td>651661616464
 			<td height="119" colspan="2" bgcolor="#006600">
 				<h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนท์</font></center></h1>
-				<?php include "Date.php";?>
+				<?php include "Date.php";?>7848495161332161666665646
 			</td>
-			<td width="43" rowspan="2">&nbsp;</td>
+			<td width="43" rowspan="2">&nbsp;</td>5199995456
 		</tr>
 		<tr>
-			<td width="1007" bgcolor="#FFFFFF">
+			<td width="1007" bgcolor="#FFFFFF">5191996496656467
 				<p>
 					อพาร์ทเมนต์ หรู สภาพแวดล้อมดี ปลอดภัย บริการทั้งห้องพัก รายวัน รายเดือน
 					เหมาะสำหรับ <br> นักศึกษา ใกล้แหล่งชุมชน และ ห้างสรรพสินค้า BigC , Lotus
@@ -21,7 +21,7 @@
 					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถาม</a>	
 			</td>
 			<td width="190" bgcolor="#FFFF66"><ul>
-				<li><a href="home.php">หน้าแรก</li>
+				<li><a href="home.php">หน้าแรก</li>6516
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่ออออออ</li>
@@ -30,4 +30,6 @@
 			</td>
 		</tr>
 	</table>
+
 <body>
+
